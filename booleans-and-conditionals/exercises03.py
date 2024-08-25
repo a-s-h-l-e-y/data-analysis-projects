@@ -47,3 +47,6 @@ else:
 
 # If fuel_level is above 20000 AND engine_indicator_light is NOT red blinking OR command_override is true print "Cleared to launch!" Else print "Launch scrubbed!"
 
+# Added
+# a
+# Multiple line comment
