@@ -37,7 +37,11 @@ else:
    ending = 'Failed to reach orbit.'
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 print('The shuttle gained an altitude of', shuttle_altitude, 'km and has', starting_fuel_level,'kg of fuel left.', ending)
+=======
+print('The shuttle gained an altitude of', shuttle_altitude, 'km and has', starting_fuel_level,'kg of fuel left.', ending)
+>>>>>>> 7604c130f9659f3c805a9626f933f3c3638189cb
 =======
 print('The shuttle gained an altitude of', shuttle_altitude, 'km and has', starting_fuel_level,'kg of fuel left.', ending)
 >>>>>>> 7604c130f9659f3c805a9626f933f3c3638189cb
