@@ -41,4 +41,5 @@ max_index = len(new_word)-1
 for index in range(max_index, -1, -1):
    new_word += new_word[index]
 
+# tomatootamot
 print(new_word)
